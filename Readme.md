@@ -1,6 +1,6 @@
 #Toxcoin 
 
-A proof of trust based crypto currency. For more information see the [whitepaper.](https://coin.tox.im)
+A proof of trust based crypto currency. For more information see the [whitepaper.](https://coin.tox.im/whitepaper.pdf)
 
 You can also come see us on IRC: [#toxcoin@freenode](https://webchat.freenode.net/?channels=toxcoin)
 
