@@ -6,4 +6,8 @@ You can also come see us on IRC: [#toxcoin@freenode](https://webchat.freenode.ne
 
 The code directory contains a linux only proof of concept which can be compiled with the following command: gcc -o poc code/*.c
 
+###Needed: Actual Developers
+
+The Toxcoin dev team currently consists entirely of ideas guys, we need actual developpers to design and implement toxcoin properly. The development team will recieve 10% of toxcoin profits while 90% will go to the ideas guys who came up with the idea.
+
 ![Toxcoin](https://raw.github.com/irungentoo/toxcoin/master/logo/toxcoin.png "Toxcoin")
