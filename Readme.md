@@ -10,4 +10,4 @@ The code directory contains a linux only proof of concept which can be compiled 
 
 The Toxcoin dev team currently consists entirely of ideas guys, we need actual developpers to design and implement toxcoin properly. The development team will recieve 10% of toxcoin profits while 90% will go to the ideas guys who came up with the idea.
 
-![Toxcoin](https://raw.github.com/irungentoo/toxcoin/master/logo/toxcoin.png "Toxcoin")
+![Toxcoin](https://raw.github.com/irungentoo/toxcoin/master/logo/toxcoin.png "All of our startup money was spent on this logo.")
